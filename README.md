@@ -1,6 +1,6 @@
 # Aligator
 
-[![CircleCI](https://circleci.com/gh/hervinhio/aligator/tree/main.svg?style=svg)](https://circleci.com/gh/hervinhio/aligator/tree/main)
+[![CircleCI](https://img.shields.io/circleci/build/github/hervinhio/aligator/main?style=svg)](https://img.shields.io/circleci/build/github/hervinhio/aligator/main)
 
 A contract based runtime argument validation for JavaScript.
 
