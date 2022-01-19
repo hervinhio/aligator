@@ -1,7 +1,7 @@
 {
   "name": "aligator",
   "version": "1.0.0",
-  "description": "A library for validating function arguments at runtime",
+  "description": "A library for validating arguments at runtime",
   "main": "index.js",
   "repository": "https://github.com/hervinhio/aligator",
   "author": "Hervé Mutombo <hervemutombo@hotmail.fr>",
